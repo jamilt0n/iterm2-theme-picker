@@ -1,0 +1,6 @@
+# iterm2-theme-picker configuration
+# Copy this file to config.local and adjust paths for your machine
+
+# Path to the schemes directory (where .itermcolors files live)
+# This is typically the iTerm2-Color-Schemes repo
+SCHEMES_DIR="${HOME}/Developer/iTerm2-Color-Schemes/schemes"

@@ -1,0 +1,8 @@
+# Machine-specific config
+config.local
+
+# Machine-specific favorites (additions and removals)
+favorites.local
+
+# macOS
+.DS_Store
